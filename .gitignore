@@ -3,3 +3,6 @@ urop/
 
 # Ignore specific VSCode settings
 .vscode/
+
+# Ignore log files
+*.log
